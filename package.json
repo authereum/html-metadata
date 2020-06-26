@@ -9,6 +9,10 @@
     "microdata-node": "0.2.1",
     "preq": "0.5.12"
   },
+  "files": [
+    "index.js",
+    "lib"
+  ],
   "devDependencies": {
     "istanbul": "0.4.5",
     "mocha": "4.0.1",
